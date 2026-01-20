@@ -8,20 +8,20 @@ Ingeniero apasionado por la construcción de soluciones tecnológicas escalables
 
 ### 🚀 Sobre mí
 
-- [cite_start]🎓 **Magíster en Telecomunicaciones** de la Universidad Nacional de Colombia[cite: 247, 248].
-- [cite_start]💻 Actualmente trabajando en proyectos de **Desarrollo Fullstack** con React, Node.js y Java[cite: 214, 226].
-- [cite_start]🤖 Instructor y mentor en **Inteligencia Artificial**, especializado en Machine Learning y Deep Learning con TensorFlow/Keras[cite: 221, 230, 243].
-- [cite_start]📡 Amplia trayectoria coordinando proyectos críticos de infraestructura y redes[cite: 233, 235].
+- 🎓 **Magíster en Telecomunicaciones** de la Universidad Nacional de Colombia[cite: 247, 248].
+- 💻 Actualmente trabajando en proyectos de **Desarrollo Fullstack** con React, Node.js y Java[cite: 214, 226].
+- 🤖 Instructor y mentor en **Inteligencia Artificial**, especializado en Machine Learning y Deep Learning con TensorFlow/Keras[cite: 221, 230, 243].
+- 📡 Amplia trayectoria coordinando proyectos críticos de infraestructura y redes[cite: 233, 235].
 
 ---
 
 ### 🛠️ Tecnologías y Herramientas
 
-- [cite_start]**Lenguajes:** Python, Java, JavaScript, PHP, SQL, HTML/CSS[cite: 241].
-- [cite_start]**Frontend:** React, Angular, JQuery, JavaFX[cite: 242].
-- [cite_start]**Backend:** Node.js, Spring Boot[cite: 242].
-- [cite_start]**IA & Datos:** TensorFlow, Keras, Machine Learning, Deep Learning, MySQL[cite: 241, 243].
-- [cite_start]**Infraestructura:** Redes ópticas, sistemas satelitales y microondas[cite: 244].
+- **Lenguajes:** Python, Java, JavaScript, PHP, SQL, HTML/CSS[cite: 241].
+- **Frontend:** React, Angular, JQuery, JavaFX[cite: 242].
+- **Backend:** Node.js, Spring Boot[cite: 242].
+- **IA & Datos:** TensorFlow, Keras, Machine Learning, Deep Learning, MySQL[cite: 241, 243].
+- **Infraestructura:** Redes ópticas, sistemas satelitales y microondas[cite: 244].
 
 ---
 
