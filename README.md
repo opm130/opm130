@@ -36,9 +36,9 @@ Ingeniero apasionado por la construcción de soluciones tecnológicas escalables
 
 ### 📫 Contacto
 
-- [cite_start]**LinkedIn:** linkedin.com/in/oswaldoperezmurillo [cite: 208]
-- [cite_start]**Correo:** oswaldoperezmurillo@yahoo.com.co [cite: 206]
-- [cite_start]**Ubicación:** Bogotá, Colombia [cite: 220]
+- **LinkedIn:** linkedin.com/in/oswaldoperezmurillo [cite: 208]
+- **Correo:** oswaldoperezmurillo@yahoo.com.co [cite: 206]
+- **Ubicación:** Bogotá, Colombia [cite: 220]
 
 ---
-[cite_start]*"Enfocado en la eficiencia de código y la resolución de problemas complejos mediante tecnología de vanguardia."* [cite: 217]
+*"Enfocado en la eficiencia de código y la resolución de problemas complejos mediante tecnología de vanguardia."* [cite: 217]
