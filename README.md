@@ -2,26 +2,26 @@
 
 ### Magíster en Telecomunicaciones | Desarrollador Fullstack | Entusiasta de la IA
 
-Ingeniero apasionado por la construcción de soluciones tecnológicas escalables y la optimización de sistemas mediante software de vanguardia. [cite_start]Mi enfoque combina la robustez de la infraestructura de telecomunicaciones con la agilidad del desarrollo Fullstack y la potencia de la Inteligencia Artificial[cite: 213, 216].
+Ingeniero apasionado por la construcción de soluciones tecnológicas escalables y la optimización de sistemas mediante software de vanguardia. ]Mi enfoque combina la robustez de la infraestructura de telecomunicaciones con la agilidad del desarrollo Fullstack y la potencia de la Inteligencia Artificial.
 
 ---
 
 ### 🚀 Sobre mí
 
-- 🎓 **Magíster en Telecomunicaciones** de la Universidad Nacional de Colombia[cite: 247, 248].
-- 💻 Actualmente trabajando en proyectos de **Desarrollo Fullstack** con React, Node.js y Java[cite: 214, 226].
-- 🤖 Instructor y mentor en **Inteligencia Artificial**, especializado en Machine Learning y Deep Learning con TensorFlow/Keras[cite: 221, 230, 243].
-- 📡 Amplia trayectoria coordinando proyectos críticos de infraestructura y redes[cite: 233, 235].
+- 🎓 **Magíster en Telecomunicaciones** de la Universidad Nacional de Colombia.
+- 💻 Actualmente trabajando en proyectos de **Desarrollo Fullstack** con React, Node.js y Java.
+- 🤖 Instructor y mentor en **Inteligencia Artificial**, especializado en Machine Learning y Deep Learning con TensorFlow/Keras.
+- 📡 Amplia trayectoria coordinando proyectos críticos de infraestructura y redes.
 
 ---
 
 ### 🛠️ Tecnologías y Herramientas
 
-- **Lenguajes:** Python, Java, JavaScript, PHP, SQL, HTML/CSS[cite: 241].
-- **Frontend:** React, Angular, JQuery, JavaFX[cite: 242].
-- **Backend:** Node.js, Spring Boot[cite: 242].
-- **IA & Datos:** TensorFlow, Keras, Machine Learning, Deep Learning, MySQL[cite: 241, 243].
-- **Infraestructura:** Redes ópticas, sistemas satelitales y microondas[cite: 244].
+- **Lenguajes:** Python, Java, JavaScript, PHP, SQL, HTML/CSS.
+- **Frontend:** React, Angular, JQuery, JavaFX.
+- **Backend:** Node.js, Spring Boot.
+- **IA & Datos:** TensorFlow, Keras, Machine Learning, Deep Learning, MySQL.
+- **Infraestructura:** Redes ópticas, sistemas satelitales y microondas.
 
 ---
 
@@ -36,9 +36,9 @@ Ingeniero apasionado por la construcción de soluciones tecnológicas escalables
 
 ### 📫 Contacto
 
-- **LinkedIn:** linkedin.com/in/oswaldoperezmurillo [cite: 208]
-- **Correo:** oswaldoperezmurillo@yahoo.com.co [cite: 206]
-- **Ubicación:** Bogotá, Colombia [cite: 220]
+- **LinkedIn:** linkedin.com/in/oswaldoperezmurillo 
+- **Correo:** oswaldoperezmurillo@yahoo.com.co
+- - **Ubicación:** Bogotá, Colombia 
 
 ---
-*"Enfocado en la eficiencia de código y la resolución de problemas complejos mediante tecnología de vanguardia."* [cite: 217]
+*"Enfocado en la eficiencia de código y la resolución de problemas complejos mediante tecnología de vanguardia."* 
