@@ -2,7 +2,7 @@
 
 ### Magíster en Telecomunicaciones | Desarrollador Fullstack | Entusiasta de la IA
 
-Ingeniero apasionado por la construcción de soluciones tecnológicas escalables y la optimización de sistemas mediante software de vanguardia. ]Mi enfoque combina la robustez de la infraestructura de telecomunicaciones con la agilidad del desarrollo Fullstack y la potencia de la Inteligencia Artificial.
+Ingeniero apasionado por la construcción de soluciones tecnológicas escalables y la optimización de sistemas mediante software de vanguardia. Mi enfoque combina la robustez de la infraestructura de telecomunicaciones con la agilidad del desarrollo Fullstack y la potencia de la Inteligencia Artificial.
 
 ---
 
