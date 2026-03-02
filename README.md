@@ -1,44 +1,78 @@
-# ¡Hola! Soy Oswaldo Pérez Murillo 👋
+# Hi, I'm Oswaldo Pérez Murillo 👋
 
-### Magíster en Telecomunicaciones | Desarrollador Fullstack | Entusiasta de la IA
+### Fullstack Developer & AI Integration Specialist
+#### MSc Telecommunications · Universidad Nacional de Colombia 🇨🇴
 
-Ingeniero apasionado por la construcción de soluciones tecnológicas escalables y la optimización de sistemas mediante software de vanguardia. Mi enfoque combina la robustez de la infraestructura de telecomunicaciones con la agilidad del desarrollo Fullstack y la potencia de la Inteligencia Artificial.
-
----
-
-### 🚀 Sobre mí
-
-- 🎓 **Magíster en Telecomunicaciones** de la Universidad Nacional de Colombia.
-- 💻 Actualmente trabajando en proyectos de **Desarrollo Fullstack** con React, Node.js y Java.
-- 🤖 Instructor y mentor en **Inteligencia Artificial**, especializado en Machine Learning y Deep Learning con TensorFlow/Keras.
-- 📡 Amplia trayectoria coordinando proyectos críticos de infraestructura y redes.
+I build AI-powered applications, intelligent automations, and scalable 
+web solutions that help businesses save time and grow faster.
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+## 🚀 What I Do
 
-- **Lenguajes:** Python, Java, JavaScript, PHP, SQL, HTML/CSS.
-- **Frontend:** React, Angular, JQuery, JavaFX.
-- **Backend:** Node.js, Spring Boot.
-- **IA & Datos:** TensorFlow, Keras, Machine Learning, Deep Learning, MySQL.
-- **Infraestructura:** Redes ópticas, sistemas satelitales y microondas.
-
----
-
-### 📊 Mis Proyectos Destacados
-
-- **[Proyecto-odontologia](https://github.com/opm130/Proyecto-odontologia):** Aplicación web para la gestión de servicios especializados.
-- **[FullStack-Html-Node](https://github.com/opm130/FullStack-Html-Node):** Implementación completa de una arquitectura Fullstack.
-- **[AppNative-To-Do](https://github.com/opm130/AppNative-To-Do):** Desarrollo de aplicación móvil nativa en Kotlin.
-- **[API de React](https://github.com/opm130/API):** Consumo y gestión de APIs modernas.
+- 🤖 **AI & Machine Learning** — Chatbots, NLP, predictive models (TensorFlow, Keras)
+- ⚡ **Business Automations** — Workflow automation with Make.com, Zapier & custom APIs
+- 🌐 **Fullstack Web Apps** — React, Node.js, Java/Spring Boot, REST APIs
+- 📊 **Data Pipelines** — Python-based ETL, data analysis, ML model deployment
+- 📡 **Telecom Systems** — 15+ years in optical, satellite & microwave infrastructure
 
 ---
 
-### 📫 Contacto
+## 🛠️ Tech Stack
 
-- **LinkedIn:** linkedin.com/in/oswaldoperezmurillo 
-- **Correo:** oswaldoperezmurillo@yahoo.com.co
-- **Ubicación:** Bogotá, Colombia 
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+**Frontend & Backend**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+
+**AI & Data**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+**Database & Tools**
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
-*"Enfocado en la eficiencia de código y la resolución de problemas complejos mediante tecnología de vanguardia."* 
+
+## 📂 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [Proyecto-odontologia](https://github.com/opm130/Proyecto-odontologia) | Web app for dental clinic management | HTML, CSS, JS |
+| [FullStack-Html-Node](https://github.com/opm130/FullStack-Html-Node) | Complete fullstack architecture implementation | Node.js, HTML |
+| [AppNative-To-Do](https://github.com/opm130/AppNative-To-Do) | Native mobile task management app | Kotlin |
+| [API](https://github.com/opm130/API) | RESTful API consumption with React | JavaScript |
+
+---
+
+## 📈 GitHub Stats
+
+![Oswaldo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=opm130&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=opm130&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📫 Let's Work Together
+
+- 💼 **Fiverr:** [Coming soon]
+- 🔗 **LinkedIn:** [linkedin.com/in/oswaldoperezmurillo](https://linkedin.com/in/oswaldoperezmurillo)
+- 📩 **Email:** osperezm@unal.edu.co
+- 📍 **Location:** Bogotá, Colombia | Working globally
+
+---
+
+*"Building intelligent solutions that solve real business problems."*
+```
+
+--- 
